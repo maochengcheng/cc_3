@@ -2,139 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6d025ee-e53c-40e0-8e18-6daaab52e877" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bar/201801191420040996.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abount.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abount_files/201801191445265997.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bar/201801191445265997.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abount_files/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abount_files/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abount_files/jquery-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abount_files/jquery.SuperSlide.2.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abount_files/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abount_files/pagelogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pagelogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abount_files/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abount_files/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/201801191430003877.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191430003877.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/201801191430072511.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191430072511.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/201801191430193528.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191430193528.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/201801191430271503.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191430271503.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/201801191430343367.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191430343367.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/201801191445265997.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191445265997.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/jquery-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/jquery.SuperSlide.2.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/pagelogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/case0_files/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/201801191409288193.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191409288193.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/201801191445265997.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/email.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/email.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/jquery-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/jquery.SuperSlide.2.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/navigation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/navigation.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/pagelogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/phone.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/phone.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_files/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191135545223.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191135545223.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191136210418.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191136210418.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191136337575.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191136337575.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191421508457.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191421508457.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191422029854.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191422029854.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191422165732.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191422165732.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191422280559.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191422280559.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191430003877.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191430072511.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191430193528.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191430271503.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191430343367.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191435173509.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191435173509.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/201801191443545394.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/page/201801191443545394.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/Validform_v5.3.2_min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/css.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/idialog.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/jquery-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/jquery.SuperSlide.2.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/jquery.form.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/lhgdialog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default_files/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/feedback.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/201801191445265997.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/Validform_v5.3.2_min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/css.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/idialog.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/jquery-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/jquery.SuperSlide.2.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/jquery.form.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/lhgdialog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/pagelogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/style(1).css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback_files/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/201801191445265997.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/201801191500396209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/201801191500478624.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/201801191500549988.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/201801191501037363.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/jquery-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/jquery.SuperSlide.2.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/pagelogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods0_files/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news0_files/201801191443545394.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news0_files/201801191445265997.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news0_files/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news0_files/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news0_files/jquery-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news0_files/jquery.SuperSlide.2.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news0_files/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news0_files/pagelogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news0_files/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news0_files/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news47.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news47_files/201801191443545394.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news47_files/201801191445265997.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news47_files/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news47_files/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news47_files/jquery-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news47_files/jquery.SuperSlide.2.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news47_files/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news47_files/pagelogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news47_files/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news47_files/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.html" beforeDir="false" afterPath="$PROJECT_DIR$/org.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org_files/201801191445265997.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/org_files/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/org_files/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/org_files/jquery-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/org_files/jquery.SuperSlide.2.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/org_files/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/org_files/pagelogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/org_files/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/org_files/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/develop.html" beforeDir="false" afterPath="$PROJECT_DIR$/develop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryzz.html" beforeDir="false" afterPath="$PROJECT_DIR$/ryzz.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -168,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="108" column="143" selection-start-line="108" selection-start-column="143" selection-end-line="108" selection-end-column="143" />
+            <state relative-caret-position="176">
+              <caret line="109" column="16" lean-forward="true" selection-start-line="109" selection-start-column="16" selection-end-line="109" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -189,8 +58,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+            <state relative-caret-position="-328">
+              <caret line="82" column="35" lean-forward="true" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/develop.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ryzz.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="27" column="56" lean-forward="true" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -203,6 +90,7 @@
       <find>201801191420135232</find>
       <find>201801191420255459</find>
       <find>images</find>
+      <find>default.html</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,8 +100,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/goods_show.html" />
-        <option value="$PROJECT_DIR$/ryzz.html" />
-        <option value="$PROJECT_DIR$/develop.html" />
         <option value="$PROJECT_DIR$/default.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/goods.html" />
@@ -225,6 +111,8 @@
         <option value="$PROJECT_DIR$/news_show.html" />
         <option value="$PROJECT_DIR$/news2.html" />
         <option value="$PROJECT_DIR$/news.html" />
+        <option value="$PROJECT_DIR$/develop.html" />
+        <option value="$PROJECT_DIR$/ryzz.html" />
       </list>
     </option>
   </component>
@@ -292,12 +180,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562248295883</updated>
-      <workItem from="1562248297336" duration="4868000" />
+      <workItem from="1562248297336" duration="5606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4868000" />
+    <option name="totallyTimeSpent" value="5606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -339,22 +227,8 @@
     <entry file="file://$PROJECT_DIR$/case_show.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ryzz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/bar/201801191445265997.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/develop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/icons/loading.gif">
       <provider selected="true" editor-type-id="images" />
@@ -469,13 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -502,8 +369,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/news.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="108" column="143" selection-start-line="108" selection-start-column="143" selection-end-line="108" selection-end-column="143" />
+        <state relative-caret-position="176">
+          <caret line="109" column="16" lean-forward="true" selection-start-line="109" selection-start-column="16" selection-end-line="109" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328">
+          <caret line="82" column="35" lean-forward="true" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/develop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ryzz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="27" column="56" lean-forward="true" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
         </state>
       </provider>
     </entry>
