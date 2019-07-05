@@ -50,14 +50,14 @@ table.ui_border,table.ui_dialog{ width:auto;border-spacing:0;*border-collapse:co
 .ui_title{ display:block;height:26px;line-height:26px;border-bottom:1px solid #DDD\9;font-size:14px;font-weight:bold;color:#888;background:#FFF;background:none;padding-left:3px; }
 .ui_state_focus .ui_title{ color:#505050; }
 .ui_lt,.ui_rt,.ui_lb,.ui_rb,.ui_t,.ui_b,.ui_close { background-image:url(../images/idialog/idialog_s.png);background-repeat:no-repeat; }
-.ui_lt{ width:15px;height:15px;background-position:0 0;_png:idialog/ie6/ui_lt.png; }
+.ui_lt{ width:15px;height:15px;background-position:0 0;_png: idialog/ie6/ui_lt.png; }
 .ui_rt{ width:15px;height:15px;background-position:-15px 0;_png:idialog/ie6/ui_rt.png; }
 .ui_lb{ width:15px;height:15px;background-position:0 -15px; _png:idialog/ie6/ui_lb.png; }
 .ui_rb{ width:15px;height:15px;background-position:-15px -15px;_png:idialog/ie6/ui_rb.png; }
 .ui_t,.ui_b{ background-repeat:repeat-x; }
 .ui_t{ background-position:0 -30px;_png:idialog/ie6/ui_t.png; }
 .ui_b{ background-position:0 -45px;_png:idialog/ie6/ui_b.png; }
-.ui_l,.ui_r{ background-image:url(idialog/idialog_s2.png);background-repeat:repeat-y; }
+.ui_l,.ui_r{ background-image:url(../images/idialog/idialog_s2.png);background-repeat:repeat-y; }
 .ui_l{ background-position:left top;_png:idialog/ie6/ui_l.png; }
 .ui_r{ background-position:right bottom;_png:idialog/ie6/ui_r.png; }
 
