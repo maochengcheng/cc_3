@@ -116,13 +116,14 @@
         AjaxInitForm('feedback_form', 'btnSubmit', 1);
     });
 </script>
-<form id="feedback_form" name="feedback_form" url="/net/p180119152509/plugins/feedback/ajax.ashx?action=add">
+<form id="feedback_form" name="feedback_form" enctype="multipart/form-data"
+      url="http://127.0.0.1:8080/jeecg/stockBillController.do?contact_doAdd">
 <div>
     <ul class="liuyan_box">
         <li class="first">
             <label>
                 您的姓名：</label><div>
-                    <input type="text" id="txtUserName" name="txtUserName" class="width2" value="">
+                    <input type="text" id="name" name="name" class="width2" value="">
                     &nbsp;*</div>
         </li>
         <li class="first">
@@ -134,22 +135,22 @@
         <li class="first">
             <label>
                 E-mail：</label><div>
-                    <input type="text" id="txtUserEmail" name="txtUserEmail" class="width2" value=""></div>
+                    <input type="text" id="email" name="email" class="width2" value=""></div>
         </li>
         <li class="first">
             <label>
                 QQ：</label><div>
-                    <input type="text" id="txtUserQQ" name="txtUserQQ" class="width2" value=""></div>
+                    <input type="text" id="qq" name="qq" class="width2" value=""></div>
         </li>
         <li class="first">
             <label>
                 详细地址：</label><div>
-                    <input type="text" id="txtTitle" name="txtTitle" class="width2" value=""></div>
+                    <input type="text" id="title" name="title" class="width2" value=""></div>
         </li>
         <li class="first">
             <label>
                 留言内容：</label><div>
-                    <textarea id="txtContent" name="txtContent" class="medium half"></textarea></div>
+                    <textarea id="content" name="content" class="medium half"></textarea></div>
         </li>
         <!--<li class="first">
             <label>

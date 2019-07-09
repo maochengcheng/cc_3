@@ -407,7 +407,8 @@
                     });
         </script>
 		<div class="right homefeedback">
-			<form class="messages" method="post" id="feedback_form" name="feedback_form" url="http://127.0.0.1:8080/jeecg/webCc3Controller.do?contact_doAdd">
+			<form class="messages" method="post" id="feedback_form" name="feedback_form" enctype="multipart/form-data"
+			      url="stockBillController.do?contact_doAdd">
 			    <div class="messlist">
 			      	<label>姓名:</label>
 			      	<input type="text" placeholder="" name="name" id="name" class="inputcontrol">
@@ -441,6 +442,8 @@
     </div>
 </div>
 <script>
+    localStorage.setItem("cc_url","http://127.0.0.1:8080/jeecg/");
+    var cc_url=localStorage.getItem("cc_url");
 	//窗体滚动事件特效
 	$(window).scroll(function(){
 		headerInit();

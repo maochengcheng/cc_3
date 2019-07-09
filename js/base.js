@@ -270,6 +270,7 @@ function AjaxInitForm(formId, btnId, isDialog, urlId){
 
     //表单提交后
     function formResponse(data, textStatus) {
+
 		if (data.status == 1) {
             btnObj.val("提交成功");
 			//是否提示，默认不提示
