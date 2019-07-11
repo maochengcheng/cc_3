@@ -239,12 +239,16 @@ function SendEmail(username, sendurl) {
 		}
 	});
 }
-
+function getUrl(url){
+    var cc_url=localStorage.getItem("cc_url");
+    return cc_url+url;
+}
 /*表单AJAX提交封装(包含验证)*/
 function AjaxInitForm(formId, btnId, isDialog, urlId){
     var formObj = $('#' + formId);
 	var btnObj = $("#" + btnId);
 	var urlObj = $("#" + urlId);
+
 	formObj.Validform({
 		tiptype:3,
 		callback:function(form){
@@ -253,7 +257,7 @@ function AjaxInitForm(formId, btnId, isDialog, urlId){
                 beforeSubmit: formRequest,
                 success: formResponse,
                 error: formError,
-                url: formObj.attr("url"),
+                url: getUrl(formObj.attr("url")),
                 type: "post",
                 dataType: "json",
                 timeout: 60000
